@@ -11,9 +11,9 @@ A classic interactive Drum Kit web application built with HTML, CSS, and JavaScr
 
 ## Tech Stack
 
-* HTML5 (Structure)[cite: 2]
-* CSS3 (Styling & Animations)[cite: 4]
-* JavaScript (DOM Manipulation & Event Listeners)[cite: 3]
+* HTML5 (Structure).
+* CSS3 (Styling & Animations).
+* JavaScript (DOM Manipulation & Event Listeners).
 
 ## How to Play
 

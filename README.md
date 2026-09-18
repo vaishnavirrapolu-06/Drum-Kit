@@ -17,7 +17,6 @@ A classic interactive Drum Kit web application built with HTML, CSS, and JavaScr
 
 ## How to Play
 
-1. Clone the repository
-2. Open `index.html` in your browser[cite: 2]
-3. Click any drum button or press the corresponding keyboard key (`W`, `A`, `S`, `D`, `J`, `K`, `L`) to play sounds[cite: 2, 3]!
-
+1. Clone the repository.
+2. Open `index.html` in your browser.
+3. Click any drum button or press the corresponding keyboard key (`W`, `A`, `S`, `D`, `J`, `K`, `L`) to play sounds.
